@@ -6,3 +6,6 @@ git push es un comando para subir los archivos a la nuve
 
 git status
 git status es un comando para ver e3l estado de los archivos que hay en el disco comparando con la nuve
+
+git commit
+git commit es un comando para preparar la subida de los archivos nuevos o modificados va antes de push
