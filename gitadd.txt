@@ -1,11 +1,11 @@
 git add .
 git add es un comando que se usa para subir archivos
 
-git push
-git push es un comando para subir los archivos a la nuve
-
 git status
-git status es un comando para ver e3l estado de los archivos que hay en el disco comparando con la nuve
+nos devuelve el estado de la carpeta
 
-git commit
-git commit es un comando para preparar la subida de los archivos nuevos o modificados va antes de push
+git commit -m "mensaje"
+genera un commit local
+
+git push
+sube los cambios en la nube
