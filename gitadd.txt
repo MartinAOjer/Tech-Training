@@ -34,3 +34,5 @@ sirve para cambiar de rama
 git merge "nombre"
 pasa todos los cambios de la rama seleccionada a la actual
 
+git reset --soft HEAD~1
+buelba para atras 
