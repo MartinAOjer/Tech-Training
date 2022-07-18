@@ -9,3 +9,28 @@ genera un commit local
 
 git push
 sube los cambios en la nube
+
+gits restore --staged
+sirve para cancelar una subida
+
+git checkout 
+sirve para borrar cambios efectuados
+
+git diff
+muestra los cambios efectuados a lops archivos
+
+git log
+te muestra los commit echos
+
+git branch
+te muestra las ramas con las que trabajas
+
+git checkout -b "nombre"
+permite crear una copia de la rama actual
+
+git checkout "nombre"
+sirve para cambiar de rama
+
+git merge "nombre"
+pasa todos los cambios de la rama seleccionada a la actual
+
