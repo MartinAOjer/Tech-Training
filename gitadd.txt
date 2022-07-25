@@ -36,3 +36,6 @@ pasa todos los cambios de la rama seleccionada a la actual
 
 git reset --soft HEAD~1
 buelba para atras 
+
+git pull
+descarga los archivos en la nuve
