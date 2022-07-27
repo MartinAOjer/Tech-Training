@@ -39,3 +39,8 @@ buelba para atras
 
 git pull
 descarga los archivos en la nuve
+
+git stash
+Guarda de forma temporal los cambios
+
+git stash apply
